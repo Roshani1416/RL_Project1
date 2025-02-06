@@ -22,6 +22,9 @@ The goal is to dynamically adjust the product price to maximize total sales and 
 ├── requirements.txt           # List of dependencies
 ├── README.md                  # Project documentation
 
+## Project ppt
+https://www.canva.com/design/DAGeQayMZ8Y/xmyYCz0-Xg5FeSqdp7kc4Q/edit?utm_content=DAGeQayMZ8Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 ## Installation & Setup
 ### Prerequisites
